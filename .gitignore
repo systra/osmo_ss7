@@ -1,4 +1,5 @@
 *.beam
+deps
 .eunit
 ebin/*.boot
 ebin/*.script
