@@ -1,0 +1,9 @@
+{application, osmo_ss7, [
+    {description, "Osmocom SS7 code"},
+    {vsn, "1"},
+    {modules, []},
+    {registered, [osmo_ss7_app]},
+    {mod, {osmo_ss7_app, []}},
+    {applications, []},
+    {env, []}
+]}.
